@@ -1,0 +1,68 @@
+
+h1 {
+    color: aqua;
+}
+
+body {
+    font-family: 'Ysabeau Infant', sans-serif;
+    background-image: url(https://i.postimg.cc/zDWFfXf5/compute-ea4c57a4.png);
+}
+
+
+a {
+    color: rgb(254, 254, 255);
+}
+
+ul {
+    color: rgb(169, 171, 247);
+    
+}
+#bts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    height: 100vh;
+}
+
+#login {
+    border: none;
+    border-radius: 25px;
+    font-size: 28px;
+    background-color: transparent;
+    color: whitesmoke;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 60px; 
+    right: 41%;
+    margin-top: 197px;
+    
+    
+}
+
+#login:hover {
+    background-color: #3f3f3f;
+    transform: scale(1.2);
+}
+
+#sign {
+    border: none;
+    border-radius: 25px;
+    font-size: 25px;
+    background-color: transparent;
+    color: #f1f1f1;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 60px; 
+    left: 42%;
+    margin-top: 200px;
+    
+
+}
+
+#sign:hover {
+    background-color: #3f3f3f;
+    transform: scale(1.2);
+}
+
